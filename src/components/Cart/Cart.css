@@ -1,0 +1,10 @@
+.selected-person p{
+    background-color:#ffc107;
+    padding:10px 15px;
+    margin:10px 0;
+    text-align:center;
+    text-transform: capitalize;
+    border-radius: 5px;
+    font-size:18px;
+    font-weight:600;
+}

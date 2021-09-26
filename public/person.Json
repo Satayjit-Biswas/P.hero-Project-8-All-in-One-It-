@@ -1,0 +1,92 @@
+[
+    {
+        "id": 1,
+        "img": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8bWVufGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&w=1000&q=80",
+        "name": "Milon mia",
+        "profession": "Social media",
+        "Age": 27,
+        "Live": "Dhaka",
+        "salary": 17700
+    },
+    {
+        "id": 2,
+        "img": "https://thumbs.dreamstime.com/b/handsome-man-black-suit-white-shirt-posing-studio-attractive-guy-fashion-hairstyle-confident-man-short-beard-125019349.jpg",
+        "name": "arif khan",
+        "profession": "web-design",
+        "Age": 27,
+        "Live": "rajbari",
+        "salary": 24700
+    },
+    {
+        "id": 3,
+        "img": "https://cdn.xxl.thumbs.canstockphoto.com/portrait-of-young-man-smiling-background-stock-photography_csp12568100.jpg",
+        "name": "antor pual",
+        "profession": "seo",
+        "Age": 27,
+        "Live": "faridpur",
+        "salary": 22700
+    },
+    {
+        "id": 4,
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVJDluM9eKiKqhZde3i_WH0bgI4dFuUqTfLNff1mJbfkhBODJ5QX72S8IiEzgdFaisnqk&usqp=CAU",
+        "name": "kaka mia",
+        "profession": "Writer",
+        "Age": 27,
+        "Live": "kustia",
+        "salary": 12700
+    },
+    {
+        "id": 5,
+        "img": "https://i.pinimg.com/564x/e2/29/5f/e2295f7b9b470f873d0cc4b088ac0726.jpg",
+        "name": "mithoun biswas",
+        "profession": "it",
+        "Age": 27,
+        "Live": "fani",
+        "salary": 27700
+    },
+    {
+        "id": 6,
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR81l2vDqon3S1xc9IL1xCfyMI_uG9RdxHVtZ9UO6x1_KCAItTwbPM27NF36RU6vUXBCdk&usqp=CAU",
+        "name": "Rasel Islam",
+        "profession": "Ui",
+        "Age": 27,
+        "Live": "kualna",
+        "salary": 35700
+    },
+    {
+        "id": 7,
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGRrYI_o3qNLkvbo5F9kiLXtTiFZvSuJFOm_-eBh9OfLrkljn6oefUV0YGFMKQKnVVeyU&usqp=CAU",
+        "name": " suvo chackroboti",
+        "profession": "Web  developer",
+        "Age": 27,
+        "Live": "manicgong",
+        "salary": 47700
+    },
+    {
+        "id": 8,
+        "img": "https://st.depositphotos.com/1144472/2003/i/950/depositphotos_20030237-stock-photo-cheerful-young-man-over-white.jpg",
+        "name": "pappu islam",
+        "profession": "designer",
+        "Age": 27,
+        "Live": "ragsahi",
+        "salary": 21700
+    },
+    {
+        "id": 9,
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfFsLue5iEzFLTIyhQRoUzDqK7SlsbpYgC0-XSd7H0ZsqKeBCTM4eky5KkIy7wjv7EqxE&usqp=CAU2",
+        "name": "milan khan",
+        "profession": "web",
+        "Age": 27,
+        "Live": "jassors",
+        "salary": 27700
+    },
+    {
+        "id": 10,
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWavB0VK9RTettP_eHF7J2UDA4xCCX59CfQD8ae4zQHmaFLB8a54-2EG6exouVgZ1FcVs&usqp=CAU",
+        "name": "salman khan",
+        "profession": "maintainer",
+        "Age": 27,
+        "Live": "Dhaka",
+        "salary": 34700
+    }
+]
