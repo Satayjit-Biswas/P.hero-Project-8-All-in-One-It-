@@ -11,8 +11,8 @@ const Cart = (props) => {
 
     return (
         <div>
-            <h4> Total Preson : {pickmember.length}</h4>
-            <h5>Total Cost: {total}/=</h5>
+            <h5><i className="far fa-user"></i> Total Preson : {pickmember.length}</h5>
+            <h6>Total Cost: {total}/=</h6>
             {
                 /* pick member name  */
                 pickmember.map((piskName,index) => <div key={index} className="selected-person">
