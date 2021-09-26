@@ -2,6 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/ProgrammingHeroWC4/the-superhero-direction-Satayjit-Biswas).
 
+* React Library
+* use bootstrap v5.1.x 
 * it company
 * add member
 * create it company in your budget
