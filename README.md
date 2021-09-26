@@ -1,7 +1,10 @@
-# Getting Started with Create React App
+# All In One
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+* it company
+* add member
+* create it company in your budget
 ## Available Scripts
 
 In the project directory, you can run:

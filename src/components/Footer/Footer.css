@@ -1,0 +1,9 @@
+.footerarea{
+    background-color: black;
+    color:#ffffff;
+    padding:30px 0;
+    margin-top:40px;
+}
+.footerarea p{
+    margin:0;
+}

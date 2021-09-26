@@ -7,16 +7,26 @@ import './Member.css'
 
 
 const Member = () => {
-    const [person,setPerson] = useState([]);
-    const [pickMember,setPickmember] = useState([]);
-    const [isDilicate,setDublicate] = useState(false);
-        useEffect(()=>{
-        fetch('person.Json')
-            .then(res => res.json())
-            .then(data => setPerson(data))
-            },[]);
+    // all person State
 
+    const [person,setPerson] = useState([]);
+    // pick members State
+
+    const [pickMember,setPickmember] = useState([]);
+    
+    // nocopy State 
+
+    const [isDilicate,setDublicate] = useState(false);
+        // call api data 
+
+        useEffect(()=>{
+            fetch('person.Json')
+                .then(res => res.json())
+                .then(data => setPerson(data))
+                },[]);
+        // creater new menubar 
         const clickHandler = (Member)=>{
+            // check copy member 
             if(pickMember.length){
                 const nocopyPerson = pickMember.find(members => members.id === Member.id);
             if(nocopyPerson){
@@ -39,6 +49,7 @@ const Member = () => {
                 <div className="container">
                     <div className="row">
                         <div className="col-md-3 order-md-2">
+                            {/* view card area  */}
                             <div className="viewCart">
                                 <Cart pickmember={pickMember}></Cart>
                                 {
@@ -49,6 +60,7 @@ const Member = () => {
                         </div>
                         <div className="col-md-9 order-md-1">
                         <div className="row row-cols-lg-3 row-cols-md-2 row-cols-1 g-4">
+                                {/* desplay all person  */}
                                 {
                                     person.map((persons,index)=><Person key={index} clickHandler={clickHandler} person={persons}></Person>)
                                 }

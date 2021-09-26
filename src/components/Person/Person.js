@@ -7,9 +7,11 @@ const Person = (props) => {
         <div className="col">
             <div className="card">
                 <div className="card_img">
+                    {/* card img  */}
                     <img src={img} className="card-img-top img-fluid" alt="..."/>
                 </div>
                 <div className="card-body">
+                    {/* card body  */}
                     <h5 className="card-title">Name: {name}</h5>
                     <h6 className="card-title">Profession: {profession}</h6>
                     <div className="age">
@@ -21,7 +23,7 @@ const Person = (props) => {
                     <div className="media">
                         <a href="#"><i className="fab fa-facebook-square"></i></a> 
                         <a href="#"><i className="fab fa-twitter-square"></i></a> 
-                    </div>
+                    </div> 
                 </div>
             </div>
         </div>
