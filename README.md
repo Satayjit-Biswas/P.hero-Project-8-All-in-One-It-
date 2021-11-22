@@ -1,6 +1,7 @@
 # All In One It
 
-This project was [Create It Company](https://github.com/ProgrammingHeroWC4/the-superhero-direction-Satayjit-Biswas).
+This project [Live](https://hardcore-franklin-a0f381.netlify.app/).
+
 
 * design With React Library
 * used bootstrap v5.1.x 
